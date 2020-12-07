@@ -1,0 +1,73 @@
+Birth Gender Fraction Variation,0.569875
+Normal Fertility Variation,11.1818
+Life Expectancy Normal Variation,25.9232
+Primary Education Percentage m Variation,0.00349786
+Primary Education Percentage f Variation,0.0035
+Secondary Education Percentage m Variation,-0.00280302
+Secondary Education Percentage f Variation,-0.00334597
+PersistenceSec Fraction Variation,0.423882
+Tertiary Education Percentage m Variation,0.007
+Tertiary Education Percentage f Variation,0.00382624
+PersistenceTer Fraction Variation,0.385
+Capital Elasticity Output Variation,0.357112
+Labor Force Participation Fraction Variation,0.937445
+Effect of GDP on Urban Land Requirement l Variation,1.3125
+Effect of GDP on Urban Land Requirement x0 Variation,4.75
+Max Energy Demand per Capita Variation,0.00000184
+Price Elasticity of Demand Oil Variation,0.78
+Price Elasticity of Demand Gas Variation,0.702
+Price Elasticity of Demand Coal Variation,0.8455
+Price Elasticity of Demand Wind and Solar Variation,0.8
+Price Elasticity of Demand Biomass Variation,0.96
+Reference Change in Fossil Fuel Market Share Variation,2.5
+Reference Change in Market Share Solar Variation,3.75
+Reference Change in Market Share Wind Variation,1.5
+Reference Change in Market Share Biomass Variation,3.75
+Relative Productivity of Investment in Fossil Fuel Production Compared to Exploration Variation,10
+Relative Productivity of Investment in Oil Exploration Variation,0.8
+Relative Productivity of Investment in Gas Exploration Variation,1.0625
+Relative Productivity of Investment in Coal Exploration Variation,0.1275
+Effectiveness of Investment in Oil Recovery Technology Variation,2.24E-11
+Effectiveness of Investment in Gas Recovery Technology Variation,1.50E-11
+Effectiveness of Investment in Coal Recovery Technology Variation,1.11E-12
+Solar Conversion Efficiency Factor Final Change Rate Variation,1.8
+Fraction for Wind and Solar Learning Curve Strength Variation,0.18
+Renewable Cost Reduction and Technology Improvement Ramp Period Variation,55
+Fraction of Oil Revenues Invested in Technology Variation,0.032
+Fraction of Gas Revenues Invested in Technology Variation,0.03
+Fraction of Coal Revenues Invested in Technology Variation,0.2975
+Investment in Fossil Fuel Exploration and Production Delay Variation,5.75
+Undiscovered Coal Resources Variation,765000
+Annual Change in Oil Reserves Variation,16800000000
+Annual Growth in Gas Reserves Variation,2500
+Reference Cost of Solar Energy Production Final Change Rate Variation,13
+Reference Cost of Biomass Energy Production Final Change Rate Variation,18000000
+Desired Total C Emission from Fossil Fuels Variation,7500000000
+CCS Scenario Variation,1
+Fraction of Agricultural Land Conversion from Forest Variation,0.95
+Forest to Agriculture Land Allocation Time Variation,5
+Reference meat yield Variation,0.063
+Reference Input Neutral TC in Agriculture Variation,0.27
+Feed Share of Grains Variation,0.75
+Waste Fraction PasMeat CropMeat Variation,0.95
+Waste Fraction EggsDairy Variation,0.95
+Waste Fraction PlantFood Variation,0.95
+Reference Daily Caloric Intake Variation,1756.23
+Normal Shift Fraction from Vegetarianism to Meat Variation,0.0055
+Normal Shift Fraction from Meat to Vegetarianism Variation,0.00435
+Normal Fraction Intended to Change Diet Variation,0.04
+Self Efficacy Multiplier Female Variation,1.44
+Diet Composition Variation,1
+SSP Demographic Variation Time,10
+SSP Economic Variation Time,10
+SSP Energy Demand Variation Time,10
+SSP Energy Technology Variation Time,10
+SSP Energy Production Variation Time,10
+SSP Land Use Change Variation Time,10
+SSP Food and Diet Variation Time,10
+RCP Scenario,3
+Climate Policy Scenario,1
+Carbon Price Slope,3
+Climate Action Year,2040
+Land Mitigation Policy Multiplier,0.03
+Reference CO2 Removal Rate,2000000

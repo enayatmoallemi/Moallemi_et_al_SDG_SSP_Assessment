@@ -1,0 +1,48 @@
+:COMSYS After 7140 simulations
+:COMSYS Best payoff is -198.086
+:COMSYS Normally terminated optimization
+:OPTIMIZER=Powell
+:SENSITIVITY=Payoff Value=4
+:MULTIPLE_START=Random
+:RANDOM_NUMBER=Default
+:OUTPUT_LEVEL=On
+:TRACE=Off
+:MAX_ITERATIONS=1000
+:SIMS_MAX=5000
+:RESTART_MAX=5
+:PASS_LIMIT=2
+:FRACTIONAL_TOLERANCE=0.0003
+:TOLERANCE_MULTIPLIER=21
+:ABSOLUTE_TOLERANCE=1
+:SCALE_ABSOLUTE=1
+:VECTOR_POINTS=25
+:MCINITMETHOD=0
+:MCPAYOFFTYPE=0
+:MCRECORD=0
+:MCSCHEDULE=0
+:MCLIMIT=0
+:MCBURNIN=0
+:MCNCHAINS=2
+:MCOUTLIER=0.05
+:MCGAMMA=1
+:MCEPSILON=0.01
+:MCDELTA=0.0001
+:MCJUMP=0.05
+:MCUPDATEPAIRS=2
+:MCXOVER=0.2
+:MCTEMP=1
+:MCFTEMP=1
+:MCCOOLING=1000
+0.38625 <= Birth Gender Fraction Variation = 0.57233  <= 0.64375
+9 <= Normal Fertility Variation = 13.2606  <= 15
+21 <= Life Expectancy Normal Variation = 25.181  <= 35
+-0.0085 <= Primary Education Percentage m Variation = 0.0035  <= 0.0035
+-0.0085 <= Primary Education Percentage f Variation = 0.0035  <= 0.0035
+-0.005 <= Secondary Education Percentage m Variation = -0.00405482  <= 0.01
+-0.005 <= Secondary Education Percentage f Variation = -0.0043564  <= 0.005
+-0.001 <= Tertiary Education Percentage m Variation = -0.001  <= 0.007
+-0.001 <= Tertiary Education Percentage f Variation = -0.001  <= 0.005
+0.3 <= PersistenceSec Fraction Variation = 0.379617  <= 0.9
+0.385 <= PersistenceTer Fraction Variation = 0.385  <= 1
+0.2125 <= Capital Elasticity Output Variation = 0.279388  <= 0.6375
+0.5625 <= Labor Force Participation Fraction Variation = 0.9375  <= 0.9375

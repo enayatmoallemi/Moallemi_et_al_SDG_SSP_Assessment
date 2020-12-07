@@ -1,0 +1,17 @@
+Start	2	3	4
+Message	BEST	OK	OK
+Birth Gender Fraction Variation	0.523825	0.572188	0.569875
+Normal Fertility Variation	10.8042	13.9018	11.1818
+Life Expectancy Normal Variation	26.0391	21.9283	25.9232
+Primary Education Percentage m Variation	0.0035	0.00349817	0.00349786
+Primary Education Percentage f Variation	0.00349911	0.0035	0.0035
+Secondary Education Percentage m Variation	-0.00311514	-0.00268582	-0.00280302
+Secondary Education Percentage f Variation	-0.00333261	-0.00345095	-0.00334597
+Tertiary Education Percentage m Variation	0.00545176	0.00498445	0.007
+Tertiary Education Percentage f Variation	0.00442258	0.00470716	0.00382624
+PersistenceSec Fraction Variation	0.431779	0.464443	0.423882
+PersistenceTer Fraction Variation	0.385	0.385	0.385
+Capital Elasticity Output Variation	0.358606	0.357334	0.357112
+Labor Force Participation Fraction Variation	0.9375	0.937492	0.937445
+PAYOFF	-146.596	-152.427	-154.839
+Simulations	2814	5290	7531

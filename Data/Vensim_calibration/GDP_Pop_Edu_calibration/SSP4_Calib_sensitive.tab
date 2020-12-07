@@ -1,0 +1,16 @@
+:COM The base payoff is     -146.596
+:COM A * Means a bound was reached, i.e. payoff not at criterion.
+:SENSITIVITY = PAYOFF_VALUE = 4
+    0.516923 <= Birth Gender Fraction Variation =     0.523825 <=     0.531077 
+     10.7444 <= Normal Fertility Variation =      10.8042 <=      10.8611 
+     25.9302 <= Life Expectancy Normal Variation =      26.0391 <=      26.1458 
+ 9.13534e-05 <= Primary Education Percentage m Variation =       0.0035 <=       0.0035 *
+-0.000248476 <= Primary Education Percentage f Variation =   0.00349911 <=       0.0035 *
+ -0.00467464 <= Secondary Education Percentage m Variation =  -0.00311514 <= -0.000929435 
+      -0.005 *<= Secondary Education Percentage f Variation =  -0.00333261 <= -0.000788103 
+  0.00361057 <= Tertiary Education Percentage m Variation =   0.00545176 <=        0.007 *
+  0.00266935 <= Tertiary Education Percentage f Variation =   0.00442258 <=        0.005 *
+     0.42348 <= PersistenceSec Fraction Variation =     0.431779 <=     0.442676 
+       0.385 *<= PersistenceTer Fraction Variation =        0.385 <=     0.397257 
+    0.354337 <= Capital Elasticity Output Variation =     0.358606 <=     0.362733 
+     0.92005 <= Labor Force Participation Fraction Variation =       0.9375 <=       0.9375 *

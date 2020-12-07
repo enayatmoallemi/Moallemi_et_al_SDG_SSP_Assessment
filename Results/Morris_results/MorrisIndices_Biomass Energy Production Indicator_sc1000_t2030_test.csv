@@ -1,0 +1,115 @@
+,mu_star,mu_star_conf,mu,sigma
+Agricultural Land Development Time Variation,2.1858216e-06,1.3728953529688559e-06,-2.0999908e-06,2.1697857e-05
+Agricultural Land Erosion Fraction Variation,0.00068367575,0.001227898949563282,-0.0006812324,0.020530252
+Agriculture to Forest Land Allocation Time Variation,0.0,0.0,0.0,0.0
+Agriculture to Urban Land Allocation Time Variation,3.1894684e-05,1.780151307272072e-05,2.6950836e-05,0.00028840502
+Annual Change in Oil Reserves Variation,0.0026609143,8.960109750250825e-05,-0.0026609143,0.0014109293
+Annual Growth in Gas Reserves Variation,0.0031671324,0.00010383630709394465,-0.0031671324,0.0016906519
+Average Wind Capacity per SqMeter Final Change Rate Variation,0.002845751,0.0001400083495987406,-0.0025415497,0.0025940754
+Biomass Conversion Efficiency Final Change Rate Variation,2.3162842e-05,6.956081050027249e-06,-2.315712e-05,0.000110910085
+Birth Gender Fraction Variation,0.00075130747,0.00015059262074217547,-0.00062310504,0.002469039
+CCS Scenario Variation,4.4345857e-06,2.2316681325084318e-07,4.4345857e-06,3.6042995e-06
+Capital Elasticity Output Variation,0.79404837,0.012010555438965688,0.79404837,0.19128229
+Climate Risk Perception Delay NoEd Variation,1.1644363e-06,5.1007606825245e-07,-8.268356e-07,8.476627e-06
+Climate Risk Perception Delay Primary Variation,1.0385513e-06,4.0119752704213496e-07,-9.1266634e-07,6.5756585e-06
+Climate Risk Perception Delay Secondary Variation,5.152702e-06,1.8893485342310159e-06,-4.33445e-06,3.1035303e-05
+Climate Risk Perception Delay Tertiary Variation,2.3231507e-06,9.601410180599776e-07,-1.8253327e-06,1.5622925e-05
+Desired Agricultural Land Conversion Trend Averaging Time Variation,0.0017778111,0.002765919726050865,-0.0017414074,0.043630563
+Desired Total C Emission from Fossil Fuels Variation,0.002554407,0.005111244862868557,0.0025537205,0.08076665
+Diet Composition Variation,0.0035336323,0.0011133770853087397,-0.0029392662,0.01714322
+Effect of GDP on Cropland Management Practices Elasticity Variation,1.9472121e-05,1.5927507845986647e-05,4.108429e-06,0.00025435747
+Effect of GDP on Cropland Management Practices Increment Final Change Rate Variation,2.6029587e-05,9.847279892734548e-06,1.1827469e-05,0.00016033807
+Effect of GDP on Cropland Management Practices Increment Ramp Period Variation,8.145333e-06,2.9557789284654958e-06,-3.7794114e-06,4.687974e-05
+Effect of GDP on Forest Land Fertility Elasticity Variation,7.43866e-08,2.9271116666731464e-08,7.43866e-08,4.901754e-07
+Effect of GDP on Forest Management Practices Increment Final Change Rate Variation,1.2047768e-05,2.764541910451531e-07,1.2047768e-05,4.4256863e-06
+Effect of GDP on Forest Management Practices Increment Ramp Period Variation,2.4003982e-06,1.4197171852295616e-07,-2.4003982e-06,2.2667393e-06
+Effect of GDP on Urban Land Requirement k Variation,0.00015438652,7.39628787073363e-05,0.0001395092,0.0012042734
+Effect of GDP on Urban Land Requirement l Variation,0.00013803292,7.1664331410565e-05,-0.00012512969,0.0011495738
+Effect of GDP on Urban Land Requirement x0 Variation,0.0005343504,0.00021253390093264022,0.00048320103,0.003573375
+Effectiveness of Investment in Coal Discovery Technology Variation,0.0008943386,3.4060915339043496e-05,-0.0008943386,0.0005430703
+Effectiveness of Investment in Coal Recovery Technology Variation,0.004873761,0.00030548133727968814,-0.0048579397,0.004946285
+Effectiveness of Investment in Gas Discovery Technology Variation,0.00043547057,2.1350370474280086e-05,-0.00043502427,0.0003366762
+Effectiveness of Investment in Gas Recovery Technology Variation,0.0031394921,0.00023472127858877097,-0.0031390344,0.0038205478
+Effectiveness of Investment in Oil Discovery Technology Variation,0.00072365283,2.8165525454229117e-05,-0.00072365283,0.00046359922
+Effectiveness of Investment in Oil Recovery Technology Variation,0.0012410545,8.158634672942691e-05,-0.00123884,0.0013389805
+Effectiveness of Investment in Renewable Energy Technology Variation,0.0001189127,8.884957557653683e-06,0.0001189127,0.00014332854
+Effectiveness of Investment in Renewable Installation Technology Variation,0.00025649642,6.331923795030383e-06,0.00025649642,0.00010169106
+Effectiveness of Pressure to Adjust C Emission Variation,5.0926207e-07,7.88327486710773e-08,5.0926207e-07,1.3189557e-06
+Event Perception Threshold Variation,9.5272065e-07,4.821097769573769e-07,-8.72612e-07,7.87561e-06
+Feed Share of Grains Variation,0.025498703,0.0179414981632566,0.00793331,0.29639488
+Feed Share of OtherCrops Variation,0.00036775874,0.00011218223212631083,-0.00026876736,0.0018432043
+Feed Share of Pulses Variation,0.0008984928,0.0002712145057921305,-0.00024782753,0.004444908
+Feed Share of VegFruits Variation,0.0017435246,0.00033900630306012283,-7.434654e-05,0.005873887
+Forest Land Fraction Harvested excluding Protected Area Variation,0.006462576,0.012208660706457009,-0.0064623873,0.20232144
+Forest to Agriculture Land Allocation Time Variation,0.000501646,0.00020674557439659058,-0.00048677446,0.003480605
+Forest to Urban Land Allocation Time Variation,2.7208328e-06,1.8429059451971912e-06,-1.9712447e-06,3.1009713e-05
+Fossil Fuel Discovery and Recovery Technology Development Time Variation,0.052241158,0.0017581083825143364,0.052241158,0.027136954
+Fraction for Biomass Learning Curve Strength Variation,0.000489707,0.0006974775468326984,0.000489707,0.010798351
+Fraction for Wind and Solar Learning Curve Strength Variation,0.0020602369,9.372742067773663e-05,-0.0019690332,0.0016145218
+Fraction of Agricultural Land Conversion from Forest Variation,0.00034049607,0.0001482530100048663,0.00033080863,0.0023664488
+Fraction of Coal Revenues Invested in Technology Variation,0.0012271185,8.176284322945011e-05,-0.0012199201,0.0013479476
+Fraction of Forest Land Conversion from Agriculture Variation,0.0,0.0,0.0,0.0
+Fraction of Gas Revenues Invested in Technology Variation,0.0033589525,0.0002558375985039618,-0.0033583804,0.0040040645
+Fraction of Oil Revenues Invested in Technology Variation,0.0014890366,0.0001253533431568672,-0.0014874516,0.0020322362
+Fraction of Revenue Invested in Solar Technology Ramp Investment Period Variation,0.0,0.0,0.0,0.0
+Fraction of Urban Land Conversion from Agriculture Variation,4.5301436e-05,2.569345856079015e-05,-3.8263322e-05,0.0004209686
+Investment in Fossil Fuel Exploration and Production Delay Variation,0.013295611,0.0006896426509344438,0.013027665,0.011317571
+Labor Force Participation Fraction Variation,0.3372763,0.007494276662609479,0.3372763,0.12357159
+Life Expectancy Normal Variation,0.4006203,0.014447841919132924,0.4006203,0.24180241
+Max Energy Demand per Capita Variation,6.0058236,0.023172720659376818,6.0058236,0.38333932
+Max Unit Cost of Fossil Fuel Exploration Variation,0.0,0.0,0.0,0.0
+Nominal Energy Agriculture Land Productivity Variation,0.0012221145,0.0014670702245031411,0.0010925388,0.023957318
+Normal Fertility Variation,0.33954474,0.003909593430622991,0.33805725,0.068186425
+Normal Fraction Intended to Change Diet Variation,1.5123367e-05,5.971317409216602e-06,1.1896133e-05,9.500351e-05
+Normal Shift Fraction from Meat to Vegetarianism Variation,0.00015835476,4.749993697613735e-05,9.218502e-05,0.0007793319
+Normal Shift Fraction from Vegetarianism to Meat Variation,0.00015553093,5.199817342219999e-05,-0.00011625481,0.00086803234
+Other Technology Inflection Point Variation,0.14601375,0.002625258268811995,-0.14601375,0.040613852
+Other Technology Steepness Final Change Rate Variation,0.006216508,0.00018574895808267598,0.006216508,0.0029726191
+Other Technology Steepness Ramp Period Variation,0.0033068848,0.0004160605693392306,-0.0028879165,0.0069278204
+Other to Forest Land Allocation Time Variation,0.0,0.0,0.0,0.0
+PersistenceSec Fraction Variation,0.005001503,0.0028953132440084897,-0.0021428948,0.04749368
+PersistenceTer Fraction Variation,0.0036225328,0.0005573581070440673,-0.0036081935,0.009041718
+Price Elasticity of Demand Biomass Variation,1.61202,0.014745674746750797,1.61202,0.23905821
+Price Elasticity of Demand Coal Variation,1.1691269,0.011460143164045993,-1.1691269,0.18745396
+Price Elasticity of Demand Gas Variation,1.8755924,0.017910233419370453,-1.8755924,0.29978704
+Price Elasticity of Demand Oil Variation,1.7731973,0.017737444964427525,-1.7707019,0.30255133
+Price Elasticity of Demand Wind and Solar Variation,0.060119163,0.000713181221850155,0.060119163,0.011611127
+Primary Education Percentage f Variation,5.545807e-05,8.656486285877291e-05,-4.423714e-05,0.0013897222
+Primary Education Percentage m Variation,0.00015403176,0.00019044661853233005,-9.318924e-05,0.0033197056
+Reference Change in Fossil Fuel Market Share Variation,1.5101349,0.016172192574110806,-1.5101349,0.259363
+Reference Change in Market Share Biomass Variation,1.5673755,0.022193014135639566,1.5673755,0.3640851
+Reference Change in Market Share Solar Variation,0.04129711,0.00048771736401483323,-0.04129711,0.007945518
+Reference Change in Market Share Wind Variation,0.02037932,0.00023841333751976982,-0.02037932,0.0041885297
+Reference Cost of Biomass Energy Production Final Change Rate Variation,0.009439951,0.00020599786183736815,-0.009439951,0.003362528
+Reference Cost of Solar Energy Production Final Change Rate Variation,0.00036351298,1.5677086101018767e-05,0.000321702,0.00030531347
+Reference Cost of Wind Energy Production Final Change Rate Variation,0.0022311143,0.003991058733253343,0.0021961927,0.06391375
+Reference Daily Caloric Intake Variation,0.08272916,0.007147601799463025,0.047909074,0.13550179
+Reference Input Neutral TC in Agriculture Variation,0.005474733,0.001948102896773226,0.005474733,0.031840183
+Reference meat yield Variation,0.0043621445,0.0011121714358845922,-0.0012435952,0.01817913
+Relative Productivity of Investment in Coal Exploration Variation,0.13164967,0.0028426265467091138,-0.13164967,0.045671385
+Relative Productivity of Investment in Fossil Fuel Production Compared to Exploration Variation,0.49725154,0.008955000799407508,-0.49725154,0.14232744
+Relative Productivity of Investment in Gas Exploration Variation,0.28035837,0.005689181265349742,-0.28035837,0.088757664
+Relative Productivity of Investment in Oil Exploration Variation,0.34222466,0.006596674773388736,-0.34222466,0.10223437
+Renewable Cost Reduction and Technology Improvement Ramp Period Variation,0.006951851,0.0004387737358658704,-0.0005162487,0.009809168
+Renewable Energy Technology Development Time Variation,0.007940529,0.00048078545025058005,-0.007940529,0.007687354
+Renewable Final Investment Fraction Variation,0.0007502689,2.198752226893926e-05,0.0007502689,0.000345944
+Renewable Installation Technology Development Time Variation,0.12259624,0.0020933628889277414,-0.122508824,0.033680014
+Response Efficacy Multiplier NoEd Variation,2.6550292e-06,9.85395452896323e-07,1.6078949e-06,1.6255175e-05
+Response Efficacy Multiplier Primary Variation,1.1701584e-06,4.264764723103e-07,7.0095064e-07,7.0085925e-06
+Response Efficacy Multiplier Secondary Variation,8.791923e-06,3.3732751406430306e-06,6.8864824e-06,5.54374e-05
+Response Efficacy Multiplier Tertiary Variation,4.245758e-06,1.617187595993931e-06,3.3416748e-06,2.6453885e-05
+Secondary Education Percentage f Variation,1.4413834e-05,4.963185077064965e-06,9.366989e-06,8.244238e-05
+Secondary Education Percentage m Variation,0.00047515868,0.000549428691790409,0.0003023758,0.0088495435
+Self Efficacy Multiplier Female Variation,2.3182869e-05,1.6482780537753584e-05,3.3330916e-06,0.00026651702
+Self Efficacy Multiplier Male Variation,9.572983e-06,3.7263193897741523e-06,7.392883e-06,6.16462e-05
+Sensitivity of Fossil Fuel Price to Supply and Demand Variation,0.061663155,0.003085314375192682,0.059177652,0.050331116
+Solar Available Area Variation,4.97818e-07,7.833586929784414e-08,4.920959e-07,1.2490758e-06
+Solar Conversion Efficiency Factor Final Change Rate Variation,0.0023227816,0.00010532874461357285,-0.0020647058,0.0019864726
+Tertiary Education Percentage f Variation,5.057144e-05,2.01840999555381e-05,2.799797e-05,0.00032230353
+Tertiary Education Percentage m Variation,0.0007327595,0.0006385634671864446,0.0006088543,0.010313417
+Time to Improve CCS Variation,9.984971e-07,1.1934450952365232e-07,-9.984971e-07,1.8970062e-06
+Undiscovered Coal Resources Variation,0.13146704,0.0026721083816545785,0.13146704,0.045288224
+Waste Fraction EggsDairy Variation,0.0008436985,0.0001411655984959961,0.0008286152,0.0022068964
+Waste Fraction PasMeat CropMeat Variation,0.005404052,0.0016381626930399963,0.0019296312,0.027090708
+Waste Fraction PlantFood Variation,0.03483556,0.004138452797902948,0.015590155,0.07466901
+Wind Available Area Variation,7.3465344e-05,0.00014276844882630824,7.334518e-05,0.0023139468

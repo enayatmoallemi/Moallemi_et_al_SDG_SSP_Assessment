@@ -1,0 +1,325 @@
+Initial point of search.
+  Birth Gender Fraction Variation = 0.499963.
+  Normal Fertility Variation = 10.2481.
+  Life Expectancy Normal Variation = 29.6351.
+  Primary Education Percentage m Variation = -0.0085.
+  Primary Education Percentage f Variation = -0.0085.
+  Secondary Education Percentage m Variation = 0.01.
+  Secondary Education Percentage f Variation = 0.005.
+  Tertiary Education Percentage m Variation = 0.00455.
+  Tertiary Education Percentage f Variation = 0.005.
+  PersistenceSec Fraction Variation = 0.6.
+  PersistenceTer Fraction Variation = 0.77.
+  Capital Elasticity Output Variation = 0.468801.
+  Labor Force Participation Fraction Variation = 0.79831.
+Simulations = 1.
+Optimizations = 1.
+Pass = 0.
+Payoff = -699.767.
+---------------------------------.
+Floating point error during optimization with.
+------------------.
+ *Birth Gender Fraction Variation = 0.488862.
+ *Normal Fertility Variation = 9.78989.
+ *Life Expectancy Normal Variation = 29.2577.
+ *Primary Education Percentage m Variation = -0.0085.
+ *Primary Education Percentage f Variation = -0.0085.
+ *Secondary Education Percentage m Variation = 0.01.
+ *Secondary Education Percentage f Variation = 0.00494623.
+ *Tertiary Education Percentage m Variation = 0.007.
+ *Tertiary Education Percentage f Variation = 0.0048488.
+ *PersistenceSec Fraction Variation = 0.602238.
+ *PersistenceTer Fraction Variation = 0.79222.
+ *Capital Elasticity Output Variation = 0.477922.
+ *Labor Force Participation Fraction Variation = 0.812901.
+------------------.
+Maximum payoff found at:.
+ *Birth Gender Fraction Variation = 0.38625.
+ *Normal Fertility Variation = 9.38942.
+ *Life Expectancy Normal Variation = 28.9356.
+  Primary Education Percentage m Variation = -0.00842994.
+ *Primary Education Percentage f Variation = -0.0084946.
+ *Secondary Education Percentage m Variation = 0.00828389.
+  Secondary Education Percentage f Variation = 0.00389224.
+  Tertiary Education Percentage m Variation = 0.007.
+  Tertiary Education Percentage f Variation = 0.005.
+  PersistenceSec Fraction Variation = 0.602238.
+  PersistenceTer Fraction Variation = 0.79222.
+  Capital Elasticity Output Variation = 0.477922.
+  Labor Force Participation Fraction Variation = 0.814592.
+Simulations = 815.
+NOTE 2 of the simulations caused floating point errors (first was reported).
+Optimizations = 1.
+Pass = 3.
+Payoff = -218.916.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	166         	815         .
+Iterations                    	3           	13          .
+ Birth Gender Fraction Variation	0.48886175  	0.38625     .
+ Normal Fertility Variation   	9.7898874   	9.3894244   .
+ Life Expectancy Normal Variation	29.257748   	28.935643   .
+ Primary Education Percentage m Variation	-0.0085     	-0.0084299385.
+ Primary Education Percentage f Variation	-0.0085     	-0.0084946  .
+ Secondary Education Percentage m Variation	0.01        	0.0082838935.
+ Secondary Education Percentage f Variation	0.0049462308	0.0038922379.
+ Tertiary Education Percentage m Variation	0.007       	0.007       .
+ Tertiary Education Percentage f Variation	0.0048488   	0.005       .
+ PersistenceSec Fraction Variation	0.60223794  	0.60223794  .
+ PersistenceTer Fraction Variation	0.79221971  	0.79221971  .
+ Capital Elasticity Output Variation	0.47792195  	0.47792195  .
+ Labor Force Participation Fraction Variation	0.81471601  	0.81459169  .
+Payoff                        	-302.97291  	-218.91627  .
+==============================.
+Initial point of search.
+ *Birth Gender Fraction Variation = 0.468407.
+ *Normal Fertility Variation = 11.2272.
+ *Life Expectancy Normal Variation = 29.8927.
+  Primary Education Percentage m Variation = -0.000436738.
+ *Primary Education Percentage f Variation = 0.000649923.
+ *Secondary Education Percentage m Variation = -0.00164471.
+  Secondary Education Percentage f Variation = 0.00499428.
+  Tertiary Education Percentage m Variation = 0.00172857.
+  Tertiary Education Percentage f Variation = 0.00326298.
+  PersistenceSec Fraction Variation = 0.459247.
+  PersistenceTer Fraction Variation = 0.725225.
+  Capital Elasticity Output Variation = 0.321836.
+  Labor Force Participation Fraction Variation = 0.645672.
+Simulations = 816.
+NOTE 2 of the simulations caused floating point errors (first was reported).
+Optimizations = 2.
+Pass = 3.
+Payoff = -25588.8.
+---------------------------------.
+Maximum payoff found at:.
+  Birth Gender Fraction Variation = 0.38625.
+  Normal Fertility Variation = 9.38942.
+  Life Expectancy Normal Variation = 28.9356.
+  Primary Education Percentage m Variation = -0.00842994.
+  Primary Education Percentage f Variation = -0.0084946.
+  Secondary Education Percentage m Variation = 0.00828389.
+  Secondary Education Percentage f Variation = 0.00389224.
+  Tertiary Education Percentage m Variation = 0.007.
+  Tertiary Education Percentage f Variation = 0.005.
+  PersistenceSec Fraction Variation = 0.602238.
+  PersistenceTer Fraction Variation = 0.79222.
+  Capital Elasticity Output Variation = 0.477922.
+ *Labor Force Participation Fraction Variation = 0.814592.
+Simulations = 1356.
+NOTE 9 of the simulations caused floating point errors (first was reported).
+Optimizations = 2.
+Pass = 3.
+Payoff = -218.916.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	1222        	1356        .
+Iterations                    	7           	22          .
+ Birth Gender Fraction Variation	0.38625     	0.38625     .
+ Normal Fertility Variation   	9           	9           .
+ Life Expectancy Normal Variation	29.190061   	29.190061   .
+ Primary Education Percentage m Variation	-0.0085     	-0.0085     .
+ Primary Education Percentage f Variation	-0.0085     	-0.0085     .
+ Secondary Education Percentage m Variation	0.01        	0.01        .
+ Secondary Education Percentage f Variation	0.005       	0.005       .
+ Tertiary Education Percentage m Variation	0.007       	0.007       .
+ Tertiary Education Percentage f Variation	0.005       	0.005       .
+ PersistenceSec Fraction Variation	0.64851793  	0.64851793  .
+ PersistenceTer Fraction Variation	0.75641187  	0.75641187  .
+ Capital Elasticity Output Variation	0.49569889  	0.49569889  .
+ Labor Force Participation Fraction Variation	0.64357907  	0.64357907  .
+Payoff                        	-319.36412  	-319.36412  .
+==============================.
+Initial point of search.
+  Birth Gender Fraction Variation = 0.430563.
+  Normal Fertility Variation = 14.2596.
+  Life Expectancy Normal Variation = 27.1851.
+  Primary Education Percentage m Variation = 0.00074892.
+  Primary Education Percentage f Variation = -0.00826502.
+  Secondary Education Percentage m Variation = 0.00256997.
+  Secondary Education Percentage f Variation = 0.00470215.
+  Tertiary Education Percentage m Variation = 0.000111698.
+  Tertiary Education Percentage f Variation = 0.00166719.
+  PersistenceSec Fraction Variation = 0.621769.
+  PersistenceTer Fraction Variation = 0.511114.
+  Capital Elasticity Output Variation = 0.273813.
+ *Labor Force Participation Fraction Variation = 0.741823.
+Simulations = 1357.
+NOTE 9 of the simulations caused floating point errors (first was reported).
+Optimizations = 3.
+Pass = 3.
+Payoff = -62145.6.
+---------------------------------.
+Maximum payoff found at:.
+  Birth Gender Fraction Variation = 0.38625.
+  Normal Fertility Variation = 9.38942.
+  Life Expectancy Normal Variation = 28.9356.
+  Primary Education Percentage m Variation = -0.00842994.
+  Primary Education Percentage f Variation = -0.0084946.
+  Secondary Education Percentage m Variation = 0.00828389.
+  Secondary Education Percentage f Variation = 0.00389224.
+  Tertiary Education Percentage m Variation = 0.007.
+  Tertiary Education Percentage f Variation = 0.005.
+ *PersistenceSec Fraction Variation = 0.602238.
+  PersistenceTer Fraction Variation = 0.79222.
+  Capital Elasticity Output Variation = 0.477922.
+  Labor Force Participation Fraction Variation = 0.814592.
+Simulations = 1988.
+NOTE 14 of the simulations caused floating point errors (first was reported).
+Optimizations = 3.
+Pass = 3.
+Payoff = -218.916.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	1477        	1988        .
+Iterations                    	2           	33          .
+ Birth Gender Fraction Variation	0.4664889   	0.41189552  .
+ Normal Fertility Variation   	9.6435456   	10.783969   .
+ Life Expectancy Normal Variation	26.796291   	26.159315   .
+ Primary Education Percentage m Variation	-0.0085     	-0.0084496702.
+ Primary Education Percentage f Variation	-0.0085     	-0.0085     .
+ Secondary Education Percentage m Variation	0.0099124231	0.01        .
+ Secondary Education Percentage f Variation	0.005       	0.005       .
+ Tertiary Education Percentage m Variation	0.007       	0.007       .
+ Tertiary Education Percentage f Variation	0.005       	0.005       .
+ PersistenceSec Fraction Variation	0.89316192  	0.7993214   .
+ PersistenceTer Fraction Variation	0.55231632  	0.61266261  .
+ Capital Elasticity Output Variation	0.37345962  	0.48018561  .
+ Labor Force Participation Fraction Variation	0.74543294  	0.77668005  .
+Payoff                        	-4759.0816  	-319.20881  .
+==============================.
+Initial point of search.
+  Birth Gender Fraction Variation = 0.46561.
+  Normal Fertility Variation = 13.7178.
+  Life Expectancy Normal Variation = 21.9175.
+  Primary Education Percentage m Variation = -0.00353786.
+  Primary Education Percentage f Variation = -0.00229356.
+  Secondary Education Percentage m Variation = 0.00962686.
+  Secondary Education Percentage f Variation = -0.00330138.
+  Tertiary Education Percentage m Variation = 0.00627684.
+  Tertiary Education Percentage f Variation = 0.00156801.
+ *PersistenceSec Fraction Variation = 0.843301.
+  PersistenceTer Fraction Variation = 0.649414.
+  Capital Elasticity Output Variation = 0.596161.
+  Labor Force Participation Fraction Variation = 0.794057.
+Simulations = 1989.
+NOTE 14 of the simulations caused floating point errors (first was reported).
+Optimizations = 4.
+Pass = 3.
+Payoff = -32136.8.
+---------------------------------.
+Maximum payoff found at:.
+  Birth Gender Fraction Variation = 0.38625.
+ *Normal Fertility Variation = 13.7499.
+  Life Expectancy Normal Variation = 21.7868.
+  Primary Education Percentage m Variation = -0.0085.
+  Primary Education Percentage f Variation = -0.0085.
+  Secondary Education Percentage m Variation = 0.01.
+  Secondary Education Percentage f Variation = 0.005.
+  Tertiary Education Percentage m Variation = 0.007.
+  Tertiary Education Percentage f Variation = 0.005.
+  PersistenceSec Fraction Variation = 0.719579.
+  PersistenceTer Fraction Variation = 0.706566.
+  Capital Elasticity Output Variation = 0.462146.
+  Labor Force Participation Fraction Variation = 0.914504.
+Simulations = 2584.
+NOTE 23 of the simulations caused floating point errors (first was reported).
+Optimizations = 4.
+Pass = 3.
+Payoff = -187.796.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	2120        	2584        .
+Iterations                    	2           	44          .
+ Birth Gender Fraction Variation	0.38625     	0.38625     .
+ Normal Fertility Variation   	13.969684   	13.749916   .
+ Life Expectancy Normal Variation	21.917526   	21.786776   .
+ Primary Education Percentage m Variation	-0.0035378632	-0.0085     .
+ Primary Education Percentage f Variation	-0.0084299385	-0.0085     .
+ Secondary Education Percentage m Variation	0.0096268567	0.01        .
+ Secondary Education Percentage f Variation	-0.0025323883	0.005       .
+ Tertiary Education Percentage m Variation	0.0062768393	0.007       .
+ Tertiary Education Percentage f Variation	0.0015680114	0.005       .
+ PersistenceSec Fraction Variation	0.84330101  	0.71957896  .
+ PersistenceTer Fraction Variation	0.64941391  	0.70656592  .
+ Capital Elasticity Output Variation	0.46467745  	0.46214611  .
+ Labor Force Participation Fraction Variation	0.79618332  	0.91450432  .
+Payoff                        	-518.24371  	-187.79558  .
+==============================.
+Initial point of search.
+  Birth Gender Fraction Variation = 0.429485.
+ *Normal Fertility Variation = 12.0934.
+  Life Expectancy Normal Variation = 22.2502.
+  Primary Education Percentage m Variation = -0.00197855.
+  Primary Education Percentage f Variation = -0.00367964.
+  Secondary Education Percentage m Variation = 0.00238863.
+  Secondary Education Percentage f Variation = 0.000791502.
+  Tertiary Education Percentage m Variation = 0.00511463.
+  Tertiary Education Percentage f Variation = 0.00294445.
+  PersistenceSec Fraction Variation = 0.695658.
+  PersistenceTer Fraction Variation = 0.976544.
+  Capital Elasticity Output Variation = 0.632.
+  Labor Force Participation Fraction Variation = 0.762409.
+Simulations = 2585.
+NOTE 23 of the simulations caused floating point errors (first was reported).
+Optimizations = 5.
+Pass = 3.
+Payoff = -79182.8.
+---------------------------------.
+Maximum payoff found at:.
+  Birth Gender Fraction Variation = 0.38625.
+  Normal Fertility Variation = 13.7499.
+  Life Expectancy Normal Variation = 21.7868.
+  Primary Education Percentage m Variation = -0.0085.
+  Primary Education Percentage f Variation = -0.0085.
+  Secondary Education Percentage m Variation = 0.01.
+  Secondary Education Percentage f Variation = 0.005.
+ *Tertiary Education Percentage m Variation = 0.007.
+  Tertiary Education Percentage f Variation = 0.005.
+  PersistenceSec Fraction Variation = 0.719579.
+  PersistenceTer Fraction Variation = 0.706566.
+  Capital Elasticity Output Variation = 0.462146.
+  Labor Force Participation Fraction Variation = 0.914504.
+Simulations = 3619.
+NOTE 29 of the simulations caused floating point errors (first was reported).
+Optimizations = 5.
+Pass = 3.
+Payoff = -187.796.
+---------------------------------.
+This Search                   	Pass 1      	Final       .
+Simulations                   	3502        	3619        .
+Iterations                    	14          	60          .
+ Birth Gender Fraction Variation	0.46996669  	0.46996669  .
+ Normal Fertility Variation   	11.306993   	11.306993   .
+ Life Expectancy Normal Variation	25.675966   	25.675966   .
+ Primary Education Percentage m Variation	-0.008329626	-0.008326386.
+ Primary Education Percentage f Variation	-0.0085     	-0.0085     .
+ Secondary Education Percentage m Variation	0.01        	0.01        .
+ Secondary Education Percentage f Variation	0.005       	0.005       .
+ Tertiary Education Percentage m Variation	0.0040299064	0.0040299064.
+ Tertiary Education Percentage f Variation	0.005       	0.005       .
+ PersistenceSec Fraction Variation	0.49745021  	0.49745021  .
+ PersistenceTer Fraction Variation	0.99916859  	0.99916859  .
+ Capital Elasticity Output Variation	0.47161537  	0.47161537  .
+ Labor Force Participation Fraction Variation	0.84423448  	0.84423448  .
+Payoff                        	-205.15297  	-204.89705  .
+==============================.
+Maximum of simulations/optimizations found at:.
+  Birth Gender Fraction Variation = 0.38625.
+  Normal Fertility Variation = 13.7499.
+  Life Expectancy Normal Variation = 21.7868.
+  Primary Education Percentage m Variation = -0.0085.
+  Primary Education Percentage f Variation = -0.0085.
+  Secondary Education Percentage m Variation = 0.01.
+  Secondary Education Percentage f Variation = 0.005.
+ *Tertiary Education Percentage m Variation = 0.007.
+  Tertiary Education Percentage f Variation = 0.005.
+  PersistenceSec Fraction Variation = 0.719579.
+  PersistenceTer Fraction Variation = 0.706566.
+  Capital Elasticity Output Variation = 0.462146.
+  Labor Force Participation Fraction Variation = 0.914504.
+Simulations = 3619.
+NOTE 29 of the simulations caused floating point errors (first was reported).
+Optimizations = 5.
+Pass = 3.
+Payoff = -187.796.
+---------------------------------.
