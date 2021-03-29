@@ -1,5 +1,7 @@
 # Data sets used for the generation results/figures
 
+The 'Data S1' file contains the description of indicators the justification of the targets set on each modelled indicator as described in the Manuscript and Supplementary Materials.
+
 The 'Vensim_calibration' folder contains the following datasets:
 * 'GDP_Pop_Edu_calibration' contains all data and files required for the calibration of population, GDP, and education in FeliX under the projections of IIASA and OECD to be used in Vensim. Within this folder:
 ** 'GDP_Pop_Edu_calibration_final_results.xlsx' shows a summary of calibration results for population, GDP, and education under each SSP.
