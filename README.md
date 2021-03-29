@@ -2,7 +2,7 @@
 
 by *Enayat A. Moallemi, Sibel Eker, Lei Gao, Michalis Hadjikakou, Jan Kwakkel, Patrick M. Reed, Michael Obersteiner, and Brett A. Bryan*
 
-This paper is submitted for publication to *Nature*.
+This paper is submitted for publication to **.
 
 
 ## Abstract
@@ -84,4 +84,4 @@ use and modify the code, without warranty, so long as you provide attribution
 to the authors.
 
 The manuscript text is not open source. The authors reserve the rights to the
-article content, which is currently submitted for publication in Nature.
+article content, which is currently submitted for publication in **.
