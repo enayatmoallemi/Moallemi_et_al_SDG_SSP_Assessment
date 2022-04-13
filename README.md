@@ -12,7 +12,7 @@ Progress to-date towards the Sustainable Development Goals (SDGs) has fallen sho
 All information you need to reproduce the results is saved in the 'Moallemi_et_al_SDG_SSP_Assessment' folder.
 Within 'Moallemi_et_al_SDG_SSP_Assessment', you find the five following folders:
 
-* Model: This includes all the Vensim model files and their required input files. These model files can be opened with Vensim or can be run through Python when you execute the codes. In both cases, you need to have Vensim DSS installed.  
+* Model: This includes all the Vensim model file, required input files, and the original model documentation. These model files can be opened with Vensim or can be run through Python when you execute the codes. In both cases, you need to have Vensim DSS installed.
 
 * Notebook: This includes all the source codes and their documentation for reproducing the results.
 

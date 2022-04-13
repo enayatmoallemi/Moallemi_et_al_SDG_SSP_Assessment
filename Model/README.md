@@ -1,6 +1,7 @@
 # Source model files and their required input spreadsheets for running in Vensim or Python.
 
 The folder contains the following files:
+* `Original_FeliX_Documentation.pdf`: This is the Venism original model documentation by F. Rydzak et al., "FeliX3 – Impact Assessment Model Systemic view across Societal Benefit Areas beyond Global Earth Observation (Model Report and Technical Documentation)," International Institute for Applied Systems Analysis (IIASA), Laxenburg, 2013.
 * FeliX3_SDGs_v45.mdl: This is the Venism original model file to be used for simulation within Vensim.
 * FeliX3_SDGs_v45.vpmx: This is the Venism model package file to be used by Python when running the model e.g. through the EMA workbench.
 * 'InitialValues.xlsx': This lists some of the input data (e.g., the initial value of stock variables). It will be opened automatically when your run the Vensim model.
