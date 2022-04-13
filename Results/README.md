@@ -1,6 +1,6 @@
 # Results generated in this paper
 
-The results files are uploaded as dataset to Zenodo from "Moallemi, Enayat A., Eker, Sibel, Gao, Lei, Hadjikakou, Michalis, Kwakkel, Jan, Reed, Patrick, … Bryan, Brett. (2020). Dataset for manuscript "Global pathways to sustainable development to 2030 and beyond" (Version Submitted-v1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4310267" 
+Most of the results files are uploaded as dataset to Zenodo from "Moallemi, Enayat A., Eker, Sibel, Gao, Lei, Hadjikakou, Michalis, Kwakkel, Jan, Reed, Patrick, … Bryan, Brett. (2020). Pathway simulation runs for manuscript "To and beyond the 2030 Agenda for accelerating long-term sustainable development (Version Submitted-v1) [Data set]. Zenodo. http://doi.org/10.5281/zenodo.4310267" 
 
 Download the results files and copy them in the related folders as follows:
 

@@ -1,11 +1,11 @@
 # Source model files and their required input spreadsheets for running in Vensim or Python.
 
 The folder contains the following files:
-* FeliX3_SDGs_v38.mdl: This is the Venism original model file to be used for simulation within Vensim.
-* FeliX3_SDGs_v38.vpmx: This is the Venism model package file to be used by Python when running the model e.g. through the EMA workbench.
-* 'InitialValues.xlsx': This lists some of the input data (e.g., the initial value of stock variables) to the Vensim model.
-* 'New_DietData.xlsx': This lists some of the input data (diet change) to the Vensim model.
-* 'TotalPopulationbyAge.xlsx': This lists some of the input data (education) to the Vensim model.
+* FeliX3_SDGs_v45.mdl: This is the Venism original model file to be used for simulation within Vensim.
+* FeliX3_SDGs_v45.vpmx: This is the Venism model package file to be used by Python when running the model e.g. through the EMA workbench.
+* 'InitialValues.xlsx': This lists some of the input data (e.g., the initial value of stock variables). It will be opened automatically when your run the Vensim model.
+* 'New_DietData.xlsx': This lists some of the input data (diet change). It will be opened automatically when your run the Vensim model.
+* 'TotalPopulationbyAge.xlsx': This lists some of the input data (education). It will be opened automatically when your run the Vensim model.
 * 'ScenarioFramework.xlsx': This contains essential input data used in running codes. It's not needed when you open the model directly in Vensim.
 * `SSP1.vdfx` to `SSP5.vdfx`: They list the SSP 1 to SSP 5 projected data from the IIASA Database with the SSP 1 to SSP 5 marker model to be used for calibration.
 

@@ -1,12 +1,12 @@
-# *Global pathways to sustainable development to 2030 and beyond*
+# *To and beyond the 2030 Agenda for accelerating long-term sustainable development*
 
-by *Enayat A. Moallemi, Sibel Eker, Lei Gao, Michalis Hadjikakou, Jan Kwakkel, Patrick M. Reed, Michael Obersteiner, and Brett A. Bryan*
+by *Enayat A. Moallemi, Sibel Eker, Lei Gao, Michalis Hadjikakou, Qi Liu, Jan Kwakkel, Patrick M. Reed, Michael Obersteiner, Zhaoxia Guo, and Brett A. Bryan*
 
 This paper is submitted for publication to **.
 
 
 ## Abstract
-Progress to-date towards the ambitious global 2030 agenda for sustainable development has been limited, and upheaval from the COVID-19 pandemic will further exacerbate the already significant challenges to Sustainable Development Goal (SDG) achievement. Here, we undertake a model-based global integrated assessment to characterise alternative pathways towards 36 time-bound, science-driven targets by 2030, 2050, and 2100. We show that it will be unlikely to jointly achieve socioeconomic and environmental targets by 2030, even under the most optimistic pathways and the least ambitious targets. Nonetheless, humanity can still avoid destabilisation of the Earth system and increase socioeconomic prosperity post-2030 via a ‘Green Recovery’ pathway. A Green Recovery by mid- and end of the century requires reducing global population by 5% and 26%, empowering sustainable economic development by 32% and 52%, increasing education availability by 10% and 40%, reducing the total global fossil energy production by 36% and 80%, reducing agricultural land area by 7% and 10%, and promoting healthy and sustainable lifestyles by lowering consumption of animal-based foods (i.e., meat and dairy) by 39% and 50%, compared to the business-as-usual trajectories for 2050 and 2100, respectively. Our results show that the combination of these changes together towards extended, more ambitious goals by 2050 and 2100 is central to the transformative change needed to ensure that both people and planet prosper in medium- and long-term futures.
+Progress to-date towards the Sustainable Development Goals (SDGs) has fallen short of expectations and is unlikely to fully meet 2030 targets. We undertake global systems modelling – with a longer-term view than previous assessments – to analyse the key drivers of sustainability progress and how they could change by 2030, 2050, and 2100 under different development pathways. We find that even though some pathways appear to make limited initial progress towards the SDGs by 2030, they can become important in catalysing change later in the century and towards increasingly ambitious targets than those in 2030. To guide how to realise this long-term progress, our results characterise the scale and feasibility of systems change in relation to human well-being and capabilities, sustainable food systems and healthy nutrition, energy transition and universal access, and a broader sustainable economy decoupled from environmental impacts. These findings indicate the importance of adopting longer-term timeframes and pathways to ensure that the necessary pre-conditions are in place for sustainable development well beyond the current 2030 Agenda.
 
 ## Code implementation and references
 All information you need to reproduce the results is saved in the 'Moallemi_et_al_SDG_SSP_Assessment' folder.
@@ -23,7 +23,7 @@ Within 'Moallemi_et_al_SDG_SSP_Assessment', you find the five following folders:
 * Fig: Any figures generated are stored in this folder.
 
 
-See the `README.md` files in each directory for a full description.
+See the `README.md` files in each folder for a full description.
 
 ## Using the code
 You can download a copy of all the files in this repository by cloning the
@@ -33,7 +33,7 @@ You can download a copy of all the files in this repository by cloning the
 
 or [download a zip archive]().
 
-A copy of the repository is also archived at *DOI TBC*
+A copy of the repository is also archived at Zenodo.
 
 ## Dependencies
 You'll need [Vensim DSS *8.0.9*](https://vensim.com/download/) to run the code. If you want to open the model file, then all  files in the 'Model' folder must be located in the same directory on your local drive.
@@ -83,5 +83,4 @@ All source code is made available under a BSD 3-clause license. You can freely
 use and modify the code, without warranty, so long as you provide attribution
 to the authors.
 
-The manuscript text is not open source. The authors reserve the rights to the
-article content, which is currently submitted for publication in **.
+The authors reserve the rights to the article content, which is currently submitted for publication to One Earth.
