@@ -1,4 +1,4 @@
-# *To and beyond the 2030 Agenda for accelerating long-term sustainable development*
+# *To and beyond the 2030 Agenda: systems change for accelerating sustainability progress*
 
 by *Enayat A. Moallemi, Sibel Eker, Lei Gao, Michalis Hadjikakou, Qi Liu, Jan Kwakkel, Patrick M. Reed, Michael Obersteiner, Zhaoxia Guo, and Brett A. Bryan*
 
