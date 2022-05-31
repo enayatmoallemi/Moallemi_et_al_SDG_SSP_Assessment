@@ -2,7 +2,7 @@
 
 by *Enayat A. Moallemi, Sibel Eker, Lei Gao, Michalis Hadjikakou, Qi Liu, Jan Kwakkel, Patrick M. Reed, Michael Obersteiner, Zhaoxia Guo, and Brett A. Bryan*
 
-This paper is submitted for publication to **.
+This paper is submitted for publication to One Earth.
 
 
 ## Abstract
